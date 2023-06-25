@@ -44,30 +44,30 @@ Quickly build your Gulp project and write code in:
 
 
 ## NPM packages to use
-[gulp](https://www.npmjs.com/package/gulp) Gulp assembler
-[gulp-htmlmin](https://www.npmjs.com/package/gulp-htmlmin) Minification of HTML files
-[gulp-pug](https://www.npmjs.com/package/gulp-pug) Pug HTML code preprocessor
-[gulp-less](https://www.npmjs.com/package/gulp-less)Compiling Less Files
-[gulp-stylus](https://www.npmjs.com/package/gulp-stylus) Compiling Styl Files
-[sass](https://www.npmjs.com/package/sass) Sass Compiler
-[gulp-sass](https://www.npmjs.com/package/gulp-sass)Compiling Sass and Scss Files
-[gulp-uglify](https://www.npmjs.com/package/gulp-uglify)Compression and optimization of Java Script code
-[gulp-coffee](https://www.npmjs.com/package/gulp-coffee)Converts Coffee Script to Java Script
-[gulp-typescript](https://www.npmjs.com/package/gulp-typescript)Converts Type Script to Java Script
-[typescript](https://www.npmjs.com/package/typescript)Type Script language
-[gulp-babel](https://www.npmjs.com/package/gulp-babel)Converts Java Script to old standard
-[@babel/core](https://www.npmjs.com/package/@babel/core)Babel core
-[@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env) Babel compilation preset
-[gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css) Minification and optimization of CSS files
-[del](https://www.npmjs.com/package/del) Removing directories and files
-[gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps) Line of code map for developer tools
-[gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)Automatic prefixing in CSS
-[gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)Image Compression
-[gulp-concat](https://www.npmjs.com/package/gulp-concat)Combining multiple files into one
-[gulp-newer](https://www.npmjs.com/package/gulp-newer)Tracking only new files
-[gulp-rename](https://www.npmjs.com/package/gulp-rename)Renames files
-[gulp-size](https://www.npmjs.com/package/gulp-size)Display file size information in terminal
-[browser-sync](https://browsersync.io/docs/gulp)Automatic site update when files change
+[gulp](https://www.npmjs.com/package/gulp) Gulp assembler    
+[gulp-htmlmin](https://www.npmjs.com/package/gulp-htmlmin) Minification of HTML files    
+[gulp-pug](https://www.npmjs.com/package/gulp-pug) Pug HTML code preprocessor    
+[gulp-less](https://www.npmjs.com/package/gulp-less)Compiling Less Files   
+[gulp-stylus](https://www.npmjs.com/package/gulp-stylus) Compiling Styl Files   
+[sass](https://www.npmjs.com/package/sass) Sass Compiler    
+[gulp-sass](https://www.npmjs.com/package/gulp-sass)Compiling Sass and Scss Files     
+[gulp-uglify](https://www.npmjs.com/package/gulp-uglify)Compression and optimization of Java Script code      
+[gulp-coffee](https://www.npmjs.com/package/gulp-coffee)Converts Coffee Script to Java Script             
+[gulp-typescript](https://www.npmjs.com/package/gulp-typescript)Converts Type Script to Java Script            
+[typescript](https://www.npmjs.com/package/typescript)Type Script language                     
+[gulp-babel](https://www.npmjs.com/package/gulp-babel)Converts Java Script to old standard                 
+[@babel/core](https://www.npmjs.com/package/@babel/core)Babel core                
+[@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env) Babel compilation preset                     
+[gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css) Minification and optimization of CSS files                    
+[del](https://www.npmjs.com/package/del) Removing directories and files                      
+[gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps) Line of code map for developer tools                
+[gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)Automatic prefixing in CSS                    
+[gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)Image Compression                       
+[gulp-concat](https://www.npmjs.com/package/gulp-concat)Combining multiple files into one                
+[gulp-newer](https://www.npmjs.com/package/gulp-newer)Tracking only new files                        
+[gulp-rename](https://www.npmjs.com/package/gulp-rename)Renames files                          
+[gulp-size](https://www.npmjs.com/package/gulp-size)Display file size information in terminal                      
+[browser-sync](https://browsersync.io/docs/gulp)Automatic site update when files change                               
 
 
 
