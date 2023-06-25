@@ -1,10 +1,10 @@
-    # Build project on Gulp 4
+    #Build project on Gulp 4
     Quickly build your Gulp project and write code in:
     - HTML, PUG
     - CSS, SCSS, SASS, LESS, STYLUS
     - Java Script, Type Script, Coffee Script
 
-    ## Assembly functionality
+    ##Assembly functionality
     - compiling the PUG preprocessor
     - HTML minification
     - compilation of preprocessors LESS, SASS, STYLUS
@@ -22,13 +22,13 @@
     - local server with automatic page refresh when files change
 
 
-    ## Input
+    ##Input
     || HTML | Styles | Scripts | Images |
     |:---|:------:|:-----:|:----:|:-----:|
     | **Catalog** | src/ | src/styles/ | src/scripts/ | src/img/ |
     | **Extension** | .html, .pug | .css, .sass, .scss, .less, .styl | .js, .ts, .coffee | .jpg, .png, .gif |
 
-    ## Output
+    ##Output
     || HTML | CSS | JavaScript | Images |
     |:---|:------:|:-----:|:----:|:-----:|
     | **Source** | dist/ | dist/css/style.min.css | dist/js/main.min.js | dist/img/ |
